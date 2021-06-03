@@ -1,9 +1,12 @@
 const CONFIG = {
     introTitle: 'Crush à!',
     introDesc: `
-    Trên trời có triệu vì sao
+    Trên trời có triệu vì sao    
+    
     Xếp thành bốn chữ vì sao yêu người.
+    
     Dưới đất có vạn con người
+    
     Mà sao chỉ có một người tôi yêu`,
     btnIntro: '(-.-)',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
@@ -16,5 +19,5 @@ const CONFIG = {
     mess: 'Anh biết em sẽ đông ý mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Bây h chính thức hẹn hò em nhé!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com//Quangboom.' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com//hoangtu.mattroi.9279.' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
